@@ -1,0 +1,6 @@
+HI = int(input("Anunya: "))
+
+IF HI % 3 == 0:
+    PRINT("Assalamu'alaikum Wr. Wb.")
+ELSE:
+    PRINT("Wassalamu'alaikum Wr. Wb.")
